@@ -7,6 +7,6 @@
  A program that takes a single command-line argument (e.g., file.cl). That argument will be an ASCII text Cool source file. The program must either indicate that there is an error in the input (e.g., a malformed string) or emit file.cl-lex, a serialized list of Cool tokens.
 
 ## Prerequisites
-* 1-IntelliJ IDEA  or similar ide [### intilj] (https://www.jetbrains.com/idea/download/#section=windows)
+* 1-IntelliJ IDEA  or similar ide [intilj](https://www.jetbrains.com/idea/download/#section=windows)
 * 2-install JDK 
 * 3-then follow this link : [https://docs.google.com/document/d/1LZq93o6nc8j_m212T5monJFApjqdmuyK8uvRKLwuCok/edit]
