@@ -9,4 +9,5 @@
 ## Prerequisites
 * 1-IntelliJ IDEA  or similar ide [intilj](https://www.jetbrains.com/idea/download/#section=windows)
 * 2-install JDK 
-* 3-then follow this link : [https://docs.google.com/document/d/1LZq93o6nc8j_m212T5monJFApjqdmuyK8uvRKLwuCok/edit]
+* 3-then follow this link : [Steps for installing ANTLR and Intelli-J IDE
+](https://docs.google.com/document/d/1LZq93o6nc8j_m212T5monJFApjqdmuyK8uvRKLwuCok/edit)
