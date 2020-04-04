@@ -21,7 +21,7 @@ good.cl and bad.cl. The first should lex correctly and yield a sequence of token
 ### Installation
  * download or clone the project in your pc 
  * unzip it
- * open in your editor IntelliJ IDEA  or similar ide 
+ * open with your editor IntelliJ IDEA  or similar ide  and go to src directry and run Lexer_Main.java file
  
 
 
