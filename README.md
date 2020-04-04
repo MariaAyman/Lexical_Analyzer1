@@ -18,6 +18,11 @@ good.cl and bad.cl. The first should lex correctly and yield a sequence of token
  that contain line_number and terminate the program .
  The .cl-lex File Format:
 #### If there are no errors in file.cl the  program should create file.cl-lex and serialize the tokens to it. Each token is represented by a pair (or triplet) of lines. The first line holds the line number. The second line gives the name of the token. The optional third line holds additional information (i.e., the lexeme) for identifiers, integers, strings and types. For example, for an integer token the third line should contain the decimal integer value.
+### Installation
+ * download or clone the project in your pc 
+ * unzip it
+ * open in your editor IntelliJ IDEA  or similar ide 
+ 
 
 
 
