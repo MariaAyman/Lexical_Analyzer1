@@ -13,7 +13,7 @@
 * 3-then follow this link : [Steps for installing ANTLR and Intelli-J IDE
 ](https://docs.google.com/document/d/1LZq93o6nc8j_m212T5monJFApjqdmuyK8uvRKLwuCok/edit)
 
-### 3) Test cases 
+###  Test cases 
 good.cl and bad.cl. The first should lex correctly and yield a sequence of tokens. The second should contain an error  print error message
  that contain line_number and terminate the program .
 
