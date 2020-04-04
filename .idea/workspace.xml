@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fef239fe-54e9-4f5c-be55-a98e7fe870d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a30eR3et3akbwGnCAboX26ixSm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lexer_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lexer_Main" />
+      <module name="Lexical_Analyzer1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lexer_Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fef239fe-54e9-4f5c-be55-a98e7fe870d2" name="Default Changelist" comment="" />
+      <created>1585949072313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585949072313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="0" key="#Project_Structure" timestamp="1585949348481">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state x="104" y="0" key="#Project_Structure/0.0.1024.560@0.0.1024.560" timestamp="1585949348481" />
+    <state x="276" y="82" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585960418736">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state x="276" y="82" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.560@0.0.1024.560" timestamp="1585960418736" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585987917211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1585987917211" />
+    <state x="242" y="26" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585962956162">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state x="242" y="26" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.560@0.0.1024.560" timestamp="1585962956162" />
+    <state x="292" y="34" key="FileChooserDialogImpl" timestamp="1585949340991">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state x="292" y="34" key="FileChooserDialogImpl/0.0.1024.560@0.0.1024.560" timestamp="1585949340991" />
+    <state width="980" height="126" key="GridCell.Tab.0.bottom" timestamp="1585967520658">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state width="980" height="126" key="GridCell.Tab.0.bottom/0.0.1024.560@0.0.1024.560" timestamp="1585967520658" />
+    <state width="980" height="126" key="GridCell.Tab.0.center" timestamp="1585967520591">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state width="980" height="126" key="GridCell.Tab.0.center/0.0.1024.560@0.0.1024.560" timestamp="1585967520591" />
+    <state width="980" height="126" key="GridCell.Tab.0.left" timestamp="1585967520483">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state width="980" height="126" key="GridCell.Tab.0.left/0.0.1024.560@0.0.1024.560" timestamp="1585967520483" />
+    <state width="980" height="126" key="GridCell.Tab.0.right" timestamp="1585967520592">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state width="980" height="126" key="GridCell.Tab.0.right/0.0.1024.560@0.0.1024.560" timestamp="1585967520592" />
+    <state x="207" y="102" key="com.intellij.ide.util.TipDialog" timestamp="1585949116406">
+      <screen x="0" y="0" width="1024" height="560" />
+    </state>
+    <state x="207" y="102" key="com.intellij.ide.util.TipDialog/0.0.1024.560@0.0.1024.560" timestamp="1585949116406" />
+  </component>
+</project>
