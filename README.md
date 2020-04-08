@@ -22,6 +22,9 @@ good.cl and bad.cl. The first should lex correctly and yield a sequence of token
  * download or clone the project in your pc 
  * unzip it
  * open with your editor IntelliJ IDEA  or similar ide  and go to src directry and run [Lexer_Main.java](https://github.com/Esraa22M/Lexical_Analyzer1/blob/master/src/Lexer_Main.java) file
+    *from [L5](https://github.com/Esraa22M/Lexical_Analyzer1/blob/master/src/Lexer_Main.java#L5) put the path of your input file 
+      like this input_file = "file_path";
+     *or you can run from cmd and put the input file name as a parameter after the [Lexer_Main.java]
  
 
 
